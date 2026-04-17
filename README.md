@@ -97,7 +97,7 @@
 ## 🔗 Connect With Me
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-YitroXanthos-green?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YitroXanthos)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yitroxanthos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elazab-16806b261/)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Coming%20Soon-green?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
 
 ---
@@ -117,9 +117,9 @@ I'm always open to discussing:
 
 ##  How to Reach Me
 
-- 📧 Email: [your.email@example.com]
+- 📧 Email: [muhamed.a.elazab@gmail.com]
 - 💬 Discord: [YourDiscordTag]
-- 🐦 Twitter: [@YourTwitter]
+- LinkedIn : [https://www.linkedin.com/in/mohamed-elazab-16806b261/]
 
 ---
 
