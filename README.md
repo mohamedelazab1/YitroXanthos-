@@ -118,7 +118,7 @@ I'm always open to discussing:
 ##  How to Reach Me
 
 - 📧 Email: [muhamed.a.elazab@gmail.com]
-- 💬 Discord: [YourDiscordTag]
+- 💬 Discord: [@medoelazabo]
 - LinkedIn : [https://www.linkedin.com/in/mohamed-elazab-16806b261/]
 
 ---
